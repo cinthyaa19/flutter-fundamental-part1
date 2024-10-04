@@ -17,7 +17,25 @@ A new Flutter project.
 
 ## Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
 
-### Langkah 10
-![alt](../../flutter-fundamental-part1/hello_world/build/images/Langkah10.png)
+### Langkah 11
+Menggunakan Emulator
+
+![alt](../../flutter-fundamental-part1/hello_world/build/images/Praktikum2.png)
+
+Menggunakan Browser Chrome
+
+![alt](../../flutter-fundamental-part1/hello_world/build/images/Langkah11.png)
+
+### Langkah 12
+
+Kode program
+
+![alt](../../flutter-fundamental-part1/hello_world/build/images/Langkah12.1.png)
+
+Menggunakan Emulator
 
 ![alt](../../flutter-fundamental-part1/hello_world/build/images/01.png)
+
+Menggunakan Browser Chrome
+
+![alt](../../flutter-fundamental-part1/hello_world/build/images/Langkah12.2.png)
