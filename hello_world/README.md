@@ -1,16 +1,23 @@
-# hello_world
+    # hello_world
 
 A new Flutter project.
 
-## Getting Started
+# Identitas Mahasiswa
+    Nama: Cinthya Achwatul Ifnu
+    NIM: 2241720051
+    Kelas: TI - 3H
+    Nomor: 07
 
-This project is a starting point for a Flutter application.
+## Tugas Praktikum
+## Praktikum 1: Membuat Project Flutter Baru
+![alt](../../flutter-fundamental-part1/hello_world/build/images/Praktikum1.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum 2: Menghubungkan Perangkat Android atau Emulator
+![alt](../../flutter-fundamental-part1/hello_world/build/images/Praktikum2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Langkah 10
+![alt](../../flutter-fundamental-part1/hello_world/build/images/Langkah10.png)
+
+![alt](../../flutter-fundamental-part1/hello_world/build/images/01.png)
