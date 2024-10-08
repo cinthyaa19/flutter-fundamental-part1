@@ -10,7 +10,7 @@ A new Flutter project.
 
 ## Tugas Praktikum
 ## Praktikum 1: Membuat Project Flutter Baru
-![alt](/hello_world/images/Praktikum1.png)
+![alt](/hello_world/Images/Praktikum1.png)
 
 ## Praktikum 2: Menghubungkan Perangkat Android atau Emulator
 ![alt](../../flutter-fundamental-part1/hello_world/build/images/Praktikum2.png)
